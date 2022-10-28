@@ -3,16 +3,20 @@ A cheatsheet for web development
 
 # Front-end Dev
 
-## Prototype
+## Prototyping Tools
+* Figma
+* Canva
 
 ## Design
-icons
-favicons
-images
-colours
-fonts
+### Icons
+### Favicons
+### Images
+### Colours
+### Fonts
 
 ## Style Libraries & Code Snippets
+* Bootstrap
+* Material-UI
 
 # Back-end Dev
 
