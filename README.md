@@ -40,7 +40,7 @@ A cheatsheet for MERN Stack Web development
 ### Encryption
 * mongoose-encryption (npm i mongoose-encryption)
 * md5 (npm i md5)
-* bcrypt (npm i bcrypt)
+* bcryptjs (npm i bcryptjs)
 
 ### Authentication
 * Passport.js (npm i passport)
