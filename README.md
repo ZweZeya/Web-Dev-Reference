@@ -23,6 +23,9 @@ A cheatsheet for MERN Stack Web development
 ### Fonts
 * Google Fonts https://fonts.google.com/about
 
+### Backgrounds
+* Transparent Textures https://www.transparenttextures.com/
+
 ## Style Libraries & Code Snippets
 * Bootstrap
 * Material-UI
