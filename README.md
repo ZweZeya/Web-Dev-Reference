@@ -14,6 +14,9 @@ A cheatsheet for MERN Stack Web development
 ### Favicons
 * Favicon.io https://favicon.io/
 
+### Logo
+* Looka https://looka.com/
+
 ### Images
 * Unsplash https://unsplash.com/
 
